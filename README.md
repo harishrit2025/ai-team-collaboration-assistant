@@ -36,3 +36,29 @@ Show the task board → demonstrate one prompt → show a meeting action item �
 
 ## Skills demonstrated
 AI foundations, prompt engineering, research, content creation, automation, verification, responsible AI.
+
+## Project Results
+
+### Before AI
+- Task allocation was manual.
+- Meeting notes were difficult to organise.
+- Progress updates were not centralised.
+
+### After AI
+- AI generated task breakdowns and meeting agendas.
+- GitHub tracked tasks and responsibilities.
+- GitHub Actions created weekly summary issues.
+
+### Conclusion
+AI helped improve project organisation by making task ownership, meeting outcomes, and progress updates easier to manage.
+
+### Limitations
+- AI can generate incorrect information.
+- Team members must verify AI-generated results.
+- Automation requires GitHub Actions to be enabled.
+
+### Responsible AI
+We avoided sharing private information, verified AI outputs, and disclosed the use of AI tools.
+
+### Tools Used
+ChatGPT, GitHub, GitHub Actions.
